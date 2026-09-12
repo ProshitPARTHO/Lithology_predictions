@@ -9,7 +9,7 @@ The pipeline addresses the common challenge of **class imbalance** in geological
 2. **Deep Neural Networks** with attention mechanisms for classification
 
 ## Dataset
-
+the dataset can be found at: https://zenodo.org/records/4351156/files/LAS_files_Force_2020_all_wells_train_test_blind_hidden_final.zip?download=1
 The dataset contains well-logging data with the following key features:
 
 ### Spatial & Identifier Columns
